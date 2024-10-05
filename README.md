@@ -3,6 +3,10 @@ This repository is an official repository of the paper "Asclepius: A Spectrum Ev
 
 <img style="width=100%" src="https://asclepius-med.github.io/figs/black_bg_title_xs.png" />
 
+# Leaderboard
+
+Please visit our [leaderboard website](https://asclepius-med.github.io/index.html).
+
 # Development set
 In order to maintain the integrity and the blindness of the evaluation benchmark for MedMLLMs, we have partitioned Asclepius into development and test subsets. The development subset is entirely accessible to the public, including the ground truth answers for all incorporated questions. Conversely, the test subset is only partially disclosed, with data samples being publicly available while the ground truth answers are withheld. To ascertain the performance on the test subset, participants are required to submit their predictions to the Asclepius server, which ensures an unbiased assessment of the Med-MLLMs.
 
